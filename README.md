@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 <h3>📌 Acesse o Explorer</h3>
 
-[Explorer]([https://](https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=41c0c597-0d85-46fd-a3dd-f559cacad623))
+[Explorer](https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=41c0c597-0d85-46fd-a3dd-f559cacad623)
